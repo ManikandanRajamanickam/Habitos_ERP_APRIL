@@ -1,0 +1,857 @@
+2019-04-23 16:01:04,872 - Habitos - LOGIN -INFO - browser gets open
+2019-04-23 16:01:11,166 - Habitos - LOGIN -INFO - browser gets valid ip address
+2019-04-23 16:01:11,600 - Habitos - LOGIN -INFO - Verify that if the User Name field is present 
+2019-04-23 16:01:11,628 - Habitos - LOGIN -INFO - Verify that if the username fields get autofocus
+2019-04-23 16:01:12,120 - Habitos - LOGIN -INFO - Verify that if the Password  field is present 
+2019-04-23 16:01:12,148 - Habitos - LOGIN -INFO - Verify that if the password fields get focused
+2019-04-23 16:01:13,161 - Habitos - LOGIN -INFO - Verify that if the user can't able to login with Invalid credentials
+2019-04-23 16:01:13,365 - Habitos - LOGIN -INFO - Verify that if the User Name field is present 
+2019-04-23 16:01:13,396 - Habitos - LOGIN -INFO - Verify that if the username fields get autofocus
+2019-04-23 16:01:13,797 - Habitos - LOGIN -INFO - Verify that if the Password  field is present 
+2019-04-23 16:01:13,848 - Habitos - LOGIN -INFO - Verify that if the password fields get focused
+2019-04-23 16:01:14,364 - Habitos - LOGIN -INFO - Verify that if the user can't able to login with Invalid credentials
+2019-04-23 16:01:14,556 - Habitos - LOGIN -INFO - Verify that if the username fields get autofocus
+2019-04-23 16:01:14,758 - Habitos - LOGIN -INFO - Verify that if the user can enter the user name
+2019-04-23 16:01:14,881 - Habitos - LOGIN -INFO - Verify that if the password fields get focused
+2019-04-23 16:01:15,149 - Habitos - LOGIN -INFO - Verify that user can login with valid credentials
+2019-04-23 16:01:39,265 - Habitos - CRM _ INFO -ERROR - Verify that if click CRM info it should redirect to crm info index screen 
+2019-04-23 16:01:39,281 - Habitos - CRM _ INFO - ADD -ERROR - Verify that if click add new button it should redirect to add new screen
+2019-04-23 16:01:39,313 - Habitos - CRM _ INFO -ERROR - Verify that user can enter the client name
+2019-04-23 16:01:39,329 - Habitos - CRM _ INFO -ERROR - user can't able to enter the client  email - id
+2019-04-23 16:01:39,345 - Habitos - CRM _ INFO -ERROR - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'ADMIN-PC', ip: '192.168.0.111', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.45.615291 (ec3682e3c9061c..., userDataDir: C:\Users\altius\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60329}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: cbea27a2245d2aba9d94f1f1da12b6ec
+*** Element info: {Using=id, value=tenant_image_attributes_image_path}
+2019-04-23 16:01:39,345 - Habitos - CRM _ INFO -ERROR - Verify that if the customer logo image getting to upload
+2019-04-23 16:01:39,360 - Habitos - CRM _ INFO -ERROR - user can't able to select the kitchen
+2019-04-23 16:01:39,376 - Habitos - CRM _ INFO -ERROR - user can't able to enter the longtitude values
+2019-04-23 16:01:39,397 - Habitos - CRM _ INFO -ERROR - Verify that if user can enter the contact person name
+2019-04-23 16:01:39,408 - Habitos - CRM _ INFO -ERROR - Verify that if user can enter the Point of contact name
+2019-04-23 16:01:39,419 - Habitos - CRM _ INFO -ERROR - Verify that user can enter the mobile number in mobile field
+2019-04-23 16:01:39,430 - Habitos - CRM _ INFO -ERROR - Verify that user can enter the POC mobile number in mobile no field
+2019-04-23 16:01:39,444 - Habitos - CRM _ INFO -ERROR - Verify that if the user can enter the GST NO
+2019-04-23 16:01:39,459 - Habitos - CRM _ INFO -ERROR - Verify that user can click the client color
+2019-04-23 16:01:39,472 - Habitos - CRM _ INFO -ERROR - Verify that user can able to select the meal time
+2019-04-23 16:01:39,483 - Habitos - CRM _ INFO -ERROR - Verify that user can able to select meal type
+2019-04-23 16:01:39,493 - Habitos - CRM _ INFO -ERROR - Verify that user can able to select Student type
+2019-04-23 16:01:39,504 - Habitos - CRM _ INFO -ERROR - Verify that user can able to enter the total count
+2019-04-23 16:01:39,513 - Habitos - CRM _ INFO -INFO - Verify that user can able to select the consume time
+2019-04-23 16:01:39,524 - Habitos - CRM _ INFO -INFO - Verify that user can able to select the dispatch time
+2019-04-23 16:01:39,535 - Habitos - CRM _ INFO -INFO - Verify that user can able to select the delivery time
+2019-04-23 16:01:44,553 - Habitos - CRM _ INFO -ERROR - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'ADMIN-PC', ip: '192.168.0.111', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.45.615291 (ec3682e3c9061c..., userDataDir: C:\Users\altius\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60329}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: cbea27a2245d2aba9d94f1f1da12b6ec
+2019-04-23 16:01:44,557 - Habitos - CRM _ INFO -ERROR - Verify that user can able to click the  submit button
+2019-04-23 16:01:51,626 - Habitos - CRM _ INFO - UPDATE -ERROR - Verify that the User can able to click edit button
+2019-04-23 16:01:54,191 - Habitos - CRM _ INFO - VIEW  -ERROR - Verify that if click view icon it should display the view screen automatically
+2019-04-23 16:01:54,191 - Habitos - CRM _ INFO - VIEW  -ERROR - Verify that the client values are correctly displayed or not
+2019-04-23 16:02:23,878 - Habitos - Menu Planner -ERROR - Verify  that if click master menu it getting to collapse
+2019-04-23 16:22:22,051 - Habitos - LOGIN -INFO - browser gets open
+2019-04-23 16:22:28,065 - Habitos - LOGIN -INFO - browser gets valid ip address
+2019-04-23 16:22:28,481 - Habitos - LOGIN -INFO - Verify that if the User Name field is present 
+2019-04-23 16:22:28,543 - Habitos - LOGIN -INFO - Verify that if the username fields get autofocus
+2019-04-23 16:22:29,103 - Habitos - LOGIN -INFO - Verify that if the Password  field is present 
+2019-04-23 16:22:29,153 - Habitos - LOGIN -INFO - Verify that if the password fields get focused
+2019-04-23 16:22:30,418 - Habitos - LOGIN -INFO - Verify that if the user can't able to login with Invalid credentials
+2019-04-23 16:22:35,835 - Habitos - LOGIN -INFO - Verify that if the User Name field is present 
+2019-04-23 16:22:35,896 - Habitos - LOGIN -INFO - Verify that if the username fields get autofocus
+2019-04-23 16:22:36,805 - Habitos - LOGIN -INFO - Verify that if the Password  field is present 
+2019-04-23 16:22:36,832 - Habitos - LOGIN -INFO - Verify that if the password fields get focused
+2019-04-23 16:22:37,956 - Habitos - LOGIN -INFO - Verify that if the user can't able to login with Invalid credentials
+2019-04-23 16:22:38,270 - Habitos - LOGIN -INFO - Verify that if the username fields get autofocus
+2019-04-23 16:22:38,669 - Habitos - LOGIN -INFO - Verify that if the user can enter the user name
+2019-04-23 16:22:38,872 - Habitos - LOGIN -INFO - Verify that if the password fields get focused
+2019-04-23 16:22:39,131 - Habitos - LOGIN -INFO - Verify that user can login with valid credentials
+2019-04-23 16:25:35,610 - Habitos - LOGIN -INFO - browser gets open
+2019-04-23 16:25:41,832 - Habitos - LOGIN -INFO - browser gets valid ip address
+2019-04-23 16:25:42,222 - Habitos - LOGIN -INFO - Verify that if the User Name field is present 
+2019-04-23 16:25:42,256 - Habitos - LOGIN -INFO - Verify that if the username fields get autofocus
+2019-04-23 16:25:42,654 - Habitos - LOGIN -INFO - Verify that if the Password  field is present 
+2019-04-23 16:25:42,688 - Habitos - LOGIN -INFO - Verify that if the password fields get focused
+2019-04-23 16:25:43,723 - Habitos - LOGIN -INFO - Verify that if the user can't able to login with Invalid credentials
+2019-04-23 16:25:43,939 - Habitos - LOGIN -INFO - Verify that if the User Name field is present 
+2019-04-23 16:25:43,985 - Habitos - LOGIN -INFO - Verify that if the username fields get autofocus
+2019-04-23 16:25:44,486 - Habitos - LOGIN -INFO - Verify that if the Password  field is present 
+2019-04-23 16:25:44,541 - Habitos - LOGIN -INFO - Verify that if the password fields get focused
+2019-04-23 16:25:45,084 - Habitos - LOGIN -INFO - Verify that if the user can't able to login with Invalid credentials
+2019-04-23 16:25:45,295 - Habitos - LOGIN -INFO - Verify that if the username fields get autofocus
+2019-04-23 16:25:45,544 - Habitos - LOGIN -INFO - Verify that if the user can enter the user name
+2019-04-23 16:25:45,672 - Habitos - LOGIN -INFO - Verify that if the password fields get focused
+2019-04-23 16:25:45,898 - Habitos - LOGIN -INFO - Verify that user can login with valid credentials
+2019-04-23 16:26:13,549 - Habitos - CRM _ INFO -INFO - Verify that if click CRM info it should redirect to crm info index screen 
+2019-04-23 16:26:16,686 - Habitos - CRM _ INFO - ADD -INFO - Verify that if click add new button it should redirect to add new screen
+2019-04-23 16:26:16,784 - Habitos - CRM _ INFO -INFO - Verify that if the user name field is focused
+2019-04-23 16:26:17,611 - Habitos - CRM _ INFO -INFO - User can enter the name in name field
+2019-04-23 16:58:12,366 - Habitos - CRM _ INFO -INFO - Verify that if click CRM info it should redirect to crm info index screen 
+2019-04-23 16:58:24,000 - Habitos - CRM _ INFO - UPDATE -ERROR - Verify that the User can able to click edit button
+2019-04-23 16:58:25,409 - Habitos - CRM _ INFO - UPDATE -INFO - Verify that user can update the mobile number in mobile field
+2019-04-23 16:58:28,066 - Habitos - CRM _ INFO - UPDATE -INFO - Verify that user can able to click the  submit button
+2019-04-23 16:58:32,478 - Habitos - CRM _ INFO - UPDATE -INFO - Client was successfully updated
+2019-04-23 16:58:38,762 - Habitos - CRM _ INFO - VIEW  -INFO - Verify that if click view icon it should display the view screen automatically
+2019-04-23 16:58:38,777 - Habitos - CRM _ INFO - VIEW  -INFO - Verify that the client values are correctly displayed or not
+2019-04-23 17:01:01,762 - Habitos - CRM _ INFO -INFO - Verify that if click CRM info it should redirect to crm info index screen 
+2019-04-23 17:01:10,477 - Habitos - CRM _ INFO - UPDATE -ERROR - Verify that the User can able to click edit button
+2019-04-23 17:01:12,209 - Habitos - CRM _ INFO - UPDATE -INFO - Verify that user can update the mobile number in mobile field
+2019-04-23 17:01:15,015 - Habitos - CRM _ INFO - UPDATE -INFO - Verify that user can able to click the  submit button
+2019-04-23 17:01:20,864 - Habitos - CRM _ INFO - UPDATE -INFO - Client was successfully updated
+2019-04-23 17:01:27,536 - Habitos - CRM _ INFO - VIEW  -INFO - Verify that if click view icon it should display the view screen automatically
+2019-04-23 17:01:27,536 - Habitos - CRM _ INFO - VIEW  -INFO - Verify that the client values are correctly displayed or not
+2019-04-23 17:02:30,983 - Habitos - CRM _ INFO -INFO - Verify that if click CRM info it should redirect to crm info index screen 
+2019-04-23 17:07:02,375 - Habitos - CRM _ INFO -INFO - Verify that if click CRM info it should redirect to crm info index screen 
+2019-04-23 17:07:12,571 - Habitos - CRM _ INFO - UPDATE -INFO - Verify that if click edit button it should redirect to related screen
+2019-04-23 17:07:14,087 - Habitos - CRM _ INFO - UPDATE -INFO - Verify that user can update the mobile number in mobile field
+2019-04-23 17:07:17,021 - Habitos - CRM _ INFO - UPDATE -INFO - Verify that user can able to click the  submit button
+2019-04-23 17:07:21,536 - Habitos - CRM _ INFO - UPDATE -INFO - Client was successfully updated
+2019-04-23 17:07:28,041 - Habitos - CRM _ INFO - VIEW  -INFO - Verify that if click view icon it should display the view screen automatically
+2019-04-23 17:07:28,041 - Habitos - CRM _ INFO - VIEW  -INFO - Verify that the client values are correctly displayed or not
+2019-04-23 17:33:37,193 - Habitos - Menu Planner -INFO - Verify  that if click master menu it getting to collapse
+2019-04-23 17:33:55,364 - Habitos - Menu Planner -INFO - Verify that if the plan name field is focus
+2019-04-23 17:33:58,675 - Habitos - Menu Planner -INFO - user can enter the plan name in input field
+2019-04-23 17:33:59,795 - Habitos - Menu Planner -INFO - user can select the  Plan creation date using date picker
+2019-04-23 17:34:00,940 - Habitos - Menu Planner -INFO - User can assign no of days
+2019-04-23 17:34:02,094 - Habitos - Menu Planner -INFO - Verify that if the break fast meal course is present
+2019-04-23 17:34:03,802 - Habitos - Menu Planner -INFO - If click add row button it should create the new row for meal course
+2019-04-23 17:34:05,785 - Habitos - Menu Planner -INFO - Verify that user can able to select the meal category
+2019-04-23 17:34:07,561 - Habitos - Menu Planner -INFO - Verify that user can able to select the meal category
+2019-04-23 17:34:08,242 - Habitos - Menu Planner -INFO - User can able to select the check box
+2019-04-23 17:34:10,152 - Habitos - Menu Planner -INFO - Verify that user can able to select the 2nd meal category
+2019-04-23 17:34:11,205 - Habitos - Menu Planner -INFO - Verify that user can able to select the meal category
+2019-04-23 17:34:11,820 - Habitos - Menu Planner -INFO - User can able to select the check box
+2019-04-23 17:34:13,552 - Habitos - Menu Planner -INFO - Verify that user can able to select the 3rd meal category
+2019-04-23 17:34:15,187 - Habitos - Menu Planner -INFO - Verify that user can able to select the meal category
+2019-04-23 17:34:15,735 - Habitos - Menu Planner -INFO - User can able to select the check box
+2019-04-23 17:34:17,849 - Habitos - Menu Planner -INFO - Verify that user can able to select the meal category
+2019-04-23 17:34:19,403 - Habitos - Menu Planner -INFO - Verify that user can able to select the meal category
+2019-04-23 17:34:21,220 - Habitos - Menu Planner -INFO - Verify that user can able to select the 2nd meal category
+2019-04-23 17:34:22,935 - Habitos - Menu Planner -INFO - Verify that user can able to select the meal category
+2019-04-23 17:34:24,582 - Habitos - Menu Planner -INFO - Verify that user can able to select the 3rd meal category
+2019-04-23 17:34:26,150 - Habitos - Menu Planner -INFO - Verify that user can able to select the meal category
+2019-04-23 17:34:28,006 - Habitos - Menu Planner -INFO - Verify that user can able to select the meal category
+2019-04-23 17:34:29,011 - Habitos - Menu Planner -INFO - Verify that user can able to select the meal category
+2019-04-23 17:34:30,687 - Habitos - Menu Planner -INFO - Verify that user can able to select the 2nd meal category
+2019-04-23 17:34:31,985 - Habitos - Menu Planner -INFO - Verify that user can able to select the meal category
+2019-04-23 17:34:33,920 - Habitos - Menu Planner -INFO - Verify that user can able to select the 3rd meal category
+2019-04-23 17:34:36,383 - Habitos - Menu Planner -INFO - user can able to select the client type into school
+2019-04-23 17:34:38,846 - Habitos - Menu Planner -INFO - User can able to select the spread type into 3 Spread
+2019-04-23 17:34:40,925 - Habitos - Menu Planner -INFO - Verify that user can able to select the meal course
+2019-04-23 17:34:51,242 - Habitos - Menu Planner -ERROR - Verify that it should display the  Client while filtering the client type, Category, Spread type
+2019-04-23 17:34:51,242 - Habitos - Menu Planner -ERROR - Verify that if click the Client it should selected the check box automatically
+2019-04-23 17:34:53,414 - Habitos - Menu Planner -ERROR - Verify that if click the Assign button it should display the success Alert message for Menu has planned
+2019-04-23 17:34:53,743 - Habitos - Menu Planner -ERROR - If click Proceed to menu button it should redirect to Menu cycle screen automatically
+2019-04-23 17:37:16,226 - Habitos - CRM _ INFO -INFO - Verify that if click CRM info it should redirect to crm info index screen 
+2019-04-23 17:37:19,555 - Habitos - CRM _ INFO - ADD -INFO - Verify that if click add new button it should redirect to add new screen
+2019-04-23 17:37:19,635 - Habitos - CRM _ INFO - ADD -INFO - Verify that if the user name field is focused
+2019-04-23 17:37:20,416 - Habitos - CRM _ INFO - ADD -INFO - User can enter the name in name field
+2019-04-23 17:37:21,049 - Habitos - CRM _ INFO - ADD -INFO - User can able to select the client type
+2019-04-23 17:37:24,600 - Habitos - CRM _ INFO - ADD -INFO - User can enter the client email - id 
+2019-04-23 17:37:26,974 - Habitos - CRM _ INFO - ADD -INFO - Verify that if the customer logo image getting to upload
+2019-04-23 17:37:28,129 - Habitos - CRM _ INFO - ADD -INFO - User can enter the address in address field
+2019-04-23 17:37:28,689 - Habitos - CRM _ INFO - ADD -INFO - User can able to select the facilities
+2019-04-23 17:37:30,152 - Habitos - CRM _ INFO - ADD -INFO - user can enter the lat value
+2019-04-23 17:37:31,504 - Habitos - CRM _ INFO - ADD -INFO - user can enter the longtitue values
+2019-04-23 17:37:32,572 - Habitos - CRM _ INFO - ADD -INFO - Verify that if user can enter the contact person name
+2019-04-23 17:37:33,299 - Habitos - CRM _ INFO - ADD -INFO - Verify that if user can enter the Point of contact name
+2019-04-23 17:37:33,956 - Habitos - CRM _ INFO - ADD -INFO - Verify that user can enter the mobile number in mobile field
+2019-04-23 17:37:36,631 - Habitos - CRM _ INFO - ADD -INFO - Verify that user can enter the POC mobile number in mobile no  field
+2019-04-23 17:37:37,354 - Habitos - CRM _ INFO - ADD -INFO - Verify that if the user can enter the GST NO
+2019-04-23 17:37:38,008 - Habitos - CRM _ INFO - ADD -INFO - Verify that user can click the client color
+2019-04-23 17:37:38,446 - Habitos - CRM _ INFO - ADD -INFO - Verify that user can able to select the meal time
+2019-04-23 17:37:39,206 - Habitos - CRM _ INFO - ADD -INFO - Verify that user can able to select meal type
+2019-04-23 17:37:40,042 - Habitos - CRM _ INFO - ADD -INFO - Verify that user can able to select Student type
+2019-04-23 17:37:40,374 - Habitos - CRM _ INFO - ADD -INFO - Verify that user can able to enter the total count
+2019-04-23 17:37:41,073 - Habitos - CRM _ INFO - ADD -INFO - Verify that user can able to select the consume time
+2019-04-23 17:37:41,585 - Habitos - CRM _ INFO - ADD -INFO - Verify that user can able to select the dispatch time
+2019-04-23 17:37:42,074 - Habitos - CRM _ INFO - ADD -INFO - Verify that user can able to select the delivery time
+2019-04-23 17:46:26,096 - Habitos - Menu Planner -INFO - Verify  that if click master menu it getting to collapse
+2019-04-23 17:46:44,233 - Habitos - Menu Planner -INFO - Verify that if the plan name field is focus
+2019-04-23 17:46:47,891 - Habitos - Menu Planner -INFO - user can enter the plan name in input field
+2019-04-23 17:46:49,113 - Habitos - Menu Planner -INFO - user can select the  Plan creation date using date picker
+2019-04-23 17:46:50,227 - Habitos - Menu Planner -INFO - User can assign no of days
+2019-04-23 17:46:51,384 - Habitos - Menu Planner -INFO - Verify that if the break fast meal course is present
+2019-04-23 17:46:53,655 - Habitos - Menu Planner -INFO - If click add row button it should create the new row for meal course
+2019-04-23 17:46:56,423 - Habitos - Menu Planner -INFO - Verify that user can able to select the meal category
+2019-04-23 17:46:57,890 - Habitos - Menu Planner -INFO - Verify that user can able to select the meal category
+2019-04-23 17:46:58,468 - Habitos - Menu Planner -INFO - User can able to select the check box
+2019-04-23 17:47:00,941 - Habitos - Menu Planner -INFO - Verify that user can able to select the 2nd meal category
+2019-04-23 17:47:01,971 - Habitos - Menu Planner -INFO - Verify that user can able to select the meal category
+2019-04-23 17:47:02,527 - Habitos - Menu Planner -INFO - User can able to select the check box
+2019-04-23 17:47:04,247 - Habitos - Menu Planner -INFO - Verify that user can able to select the 3rd meal category
+2019-04-23 17:47:05,818 - Habitos - Menu Planner -INFO - Verify that user can able to select the meal category
+2019-04-23 17:47:06,360 - Habitos - Menu Planner -INFO - User can able to select the check box
+2019-04-23 17:47:08,227 - Habitos - Menu Planner -INFO - Verify that user can able to select the meal category
+2019-04-23 17:47:09,465 - Habitos - Menu Planner -INFO - Verify that user can able to select the meal category
+2019-04-23 17:47:11,222 - Habitos - Menu Planner -INFO - Verify that user can able to select the 2nd meal category
+2019-04-23 17:47:12,799 - Habitos - Menu Planner -INFO - Verify that user can able to select the meal category
+2019-04-23 17:47:14,641 - Habitos - Menu Planner -INFO - Verify that user can able to select the 3rd meal category
+2019-04-23 17:47:16,141 - Habitos - Menu Planner -INFO - Verify that user can able to select the meal category
+2019-04-23 17:47:17,883 - Habitos - Menu Planner -INFO - Verify that user can able to select the meal category
+2019-04-23 17:47:18,885 - Habitos - Menu Planner -INFO - Verify that user can able to select the meal category
+2019-04-23 17:47:20,485 - Habitos - Menu Planner -INFO - Verify that user can able to select the 2nd meal category
+2019-04-23 17:47:21,446 - Habitos - Menu Planner -INFO - Verify that user can able to select the meal category
+2019-04-23 17:47:23,085 - Habitos - Menu Planner -INFO - Verify that user can able to select the 3rd meal category
+2019-04-23 17:47:25,013 - Habitos - Menu Planner -INFO - user can able to select the client type into school
+2019-04-23 17:47:27,079 - Habitos - Menu Planner -INFO - User can able to select the spread type into 3 Spread
+2019-04-23 17:47:29,194 - Habitos - Menu Planner -INFO - Verify that user can able to select the meal course
+2019-04-23 17:47:39,543 - Habitos - Menu Planner -ERROR - Verify that it should display the  Client while filtering the client type, Category, Spread type
+2019-04-23 17:47:39,544 - Habitos - Menu Planner -ERROR - Verify that if click the Client it should selected the check box automatically
+2019-04-23 17:47:41,747 - Habitos - Menu Planner -ERROR - Verify that if click the Assign button it should display the success Alert message for Menu has planned
+2019-04-23 17:47:42,009 - Habitos - Menu Planner -ERROR - If click Proceed to menu button it should redirect to Menu cycle screen automatically
+2019-04-23 18:18:27,828 -  Habitos - Menu Cycle -INFO - browser gets open
+2019-04-23 18:18:39,869 -  Habitos - Menu Cycle -INFO - Verify  that if click master menu it getting to collapse
+2019-04-23 18:18:40,580 -  Habitos - Menu Cycle -INFO - If click Master Menu it should display the sub menus
+2019-04-23 18:18:47,703 -  Habitos - Menu Cycle -INFO - If Search the Plan name into search box it should fileter the plan
+2019-04-23 18:18:53,243 -  Habitos - Menu Cycle -INFO - If click edit button it should redirect to related screen
+2019-04-23 18:19:13,456 -  Habitos - Menu Cycle -INFO - Verify that if sub plan is displayed or not
+2019-04-23 18:19:14,100 -  Habitos - Menu Cycle -INFO - Verify that if should open the card while clicking the plan name
+2019-04-23 18:19:16,369 -  Habitos - Menu Cycle -INFO - Veify that if click tenant name it should open the relared meal card
+2019-04-23 18:19:17,588 -  Habitos - Menu Cycle -INFO - Verify that if the client type is correct
+2019-04-23 18:19:17,758 -  Habitos - Menu Cycle -INFO - Verify that if the client category is correctly displayed
+2019-04-23 18:19:17,906 -  Habitos - Menu Cycle -INFO - Verify that if the spread type is displayed corrected
+2019-04-23 18:19:20,893 -  Habitos - Menu Cycle -INFO - verify that user can assign the date
+2019-04-23 18:19:21,273 -  Habitos - Menu Cycle -INFO - verify that if the check box is checked or not
+2019-04-23 18:26:31,648 -  Habitos - Menu Cycle -INFO - browser gets open
+2019-04-23 18:26:42,219 -  Habitos - Menu Cycle -INFO - Verify  that if click master menu it getting to collapse
+2019-04-23 18:26:42,667 -  Habitos - Menu Cycle -INFO - If click Master Menu it should display the sub menus
+2019-04-23 18:26:48,683 -  Habitos - Menu Cycle -INFO - If Search the Plan name into search box it should fileter the plan
+2019-04-23 18:26:54,133 -  Habitos - Menu Cycle -INFO - If click edit button it should redirect to related screen
+2019-04-23 18:27:20,263 -  Habitos - Menu Cycle -ERROR - Verify that if should open the card while clicking the plan name
+2019-04-23 18:50:51,953 -  Habitos - Menu Cycle -INFO - browser gets open
+2019-04-23 18:50:58,467 -  Habitos - Menu Cycle -ERROR - Verify  that if click master menu it getting to collapse
+2019-04-23 18:50:58,500 -  Habitos - Menu Cycle -ERROR - If Search the Plan name into search box it should fileter the plan
+2019-04-23 18:50:58,827 -  Habitos - Menu Cycle -INFO - If click edit button it should redirect to related screen
+2019-04-24 13:15:12,993 -  Habitos - Menu Cycle -INFO - browser gets open
+2019-04-24 13:15:24,739 -  Habitos - Menu Cycle -INFO - Verify  that if click master menu it getting to collapse
+2019-04-24 13:15:25,500 -  Habitos - Menu Cycle -INFO - If click Master Menu it should display the sub menus
+2019-04-24 13:15:31,641 -  Habitos - Menu Cycle -INFO - If Search the Plan name into search box it should fileter the plan
+2019-04-24 13:15:37,433 -  Habitos - Menu Cycle -INFO - If click edit button it should redirect to related screen
+2019-04-24 13:15:57,571 -  Habitos - Menu Cycle -INFO - Verify that if sub plan is displayed or not
+2019-04-24 13:15:58,204 -  Habitos - Menu Cycle -INFO - Verify that if should open the card while clicking the plan name
+2019-04-24 13:16:00,495 -  Habitos - Menu Cycle -INFO - Veify that if click tenant name it should open the relared meal card
+2019-04-24 13:16:01,855 -  Habitos - Menu Cycle -INFO - Verify that if the client type is correct
+2019-04-24 13:16:02,044 -  Habitos - Menu Cycle -INFO - Verify that if the client category is correctly displayed
+2019-04-24 13:16:02,242 -  Habitos - Menu Cycle -INFO - Verify that if the spread type is displayed corrected
+2019-04-24 13:16:06,288 -  Habitos - Menu Cycle -INFO - verify that user can assign the date
+2019-04-24 13:16:06,579 -  Habitos - Menu Cycle -INFO - verify that if the check box is checked or not
+2019-04-24 13:16:09,104 -  Habitos - Menu Cycle -INFO - User can click the update button
+2019-04-24 13:16:11,125 -  Habitos - Menu Cycle -INFO - If click update button it should display the alert message
+2019-04-24 14:37:29,576 -  Habitos - Menu Cycle -INFO - browser gets open
+2019-04-24 14:37:33,754 -  Habitos - Menu Cycle -ERROR - If click Master Menu it should display the sub menus
+2019-04-24 15:03:38,217 -  Habitos - Menu Cycle -INFO - browser gets open
+2019-04-24 15:03:49,952 -  Habitos - Menu Cycle -INFO - Verify  that if click master menu it getting to collapse
+2019-04-24 15:03:50,717 -  Habitos - Menu Cycle -INFO - If click Master Menu it should display the sub menus
+2019-04-24 15:03:55,115 -  Habitos - Menu Cycle -INFO - If click menu cycle menu it should redirect to related screen
+2019-04-24 15:03:58,379 -  Habitos - Menu Cycle -INFO - If Search the Plan name into search box it should fileter the plan
+2019-04-24 15:04:04,478 -  Habitos - Menu Cycle -INFO - If click edit button it should redirect to related screen
+2019-04-24 15:04:24,617 -  Habitos - Menu Cycle -INFO - Verify that if sub plan is displayed or not
+2019-04-24 15:04:25,253 -  Habitos - Menu Cycle -INFO - Verify that if should open the card while clicking the plan name
+2019-04-24 15:04:27,564 -  Habitos - Menu Cycle -INFO - Veify that if click tenant name it should open the relared meal card
+2019-04-24 15:04:28,686 -  Habitos - Menu Cycle -INFO - Verify that if the client type is correct
+2019-04-24 15:04:28,892 -  Habitos - Menu Cycle -INFO - Verify that if the client category is correctly displayed
+2019-04-24 15:04:29,060 -  Habitos - Menu Cycle -INFO - Verify that if the spread type is displayed corrected
+2019-04-24 15:04:32,549 -  Habitos - Menu Cycle -INFO - verify that user can assign the date
+2019-04-24 15:04:32,885 -  Habitos - Menu Cycle -INFO - verify that if the check box is checked or not
+2019-04-24 15:04:40,957 -  Habitos - Menu Cycle -ERROR - verify that if the check box is checked or not
+2019-04-24 15:04:49,059 -  Habitos - Menu Cycle -ERROR - org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'ADMIN-PC', ip: '192.168.0.111', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.45.615291 (ec3682e3c9061c..., userDataDir: C:\Users\altius\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63137}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: d0d3491abb8e5d6ef9028eeef2b82639
+2019-04-24 15:04:49,059 -  Habitos - Menu Cycle -ERROR - If click update button it should display the alert message
+2019-04-24 16:59:18,951 -  Habitos - Menu Cycle -INFO - browser gets open
+2019-04-24 16:59:30,464 -  Habitos - Menu Cycle -INFO - Verify  that if click master menu it getting to collapse
+2019-04-24 17:00:03,096 -  Habitos - Menu Cycle -ERROR - Verify that if should open the card while clicking the plan name
+2019-04-24 17:00:05,169 -  Habitos - Menu Cycle -ERROR - Veify that tenant name is present
+2019-04-24 17:00:05,186 -  Habitos - Menu Cycle -ERROR - Verify that if the client type is correct
+2019-04-24 17:00:05,205 -  Habitos - Menu Cycle -ERROR - Verify that if the client category is correctly displayed 
+2019-04-24 17:00:05,221 -  Habitos - Menu Cycle -ERROR - Verify that if the spread type is displayed corrected
+2019-04-24 17:00:44,264 -  Habitos - Menu Cycle -INFO - browser gets open
+2019-04-24 17:00:56,597 -  Habitos - Menu Cycle -INFO - Verify  that if click master menu it getting to collapse
+2019-04-24 17:01:03,847 -  Habitos - Menu Cycle -INFO - If click menu cycle menu it should redirect to related screen
+2019-04-24 17:01:06,532 -  Habitos - Menu Cycle -INFO - If Search the Plan name into search box it should fileter the plan
+2019-04-24 17:01:11,857 -  Habitos - Menu Cycle -INFO - If click edit button it should redirect to related screen
+2019-04-24 17:07:11,619 -  Habitos - Menu Cycle -INFO - browser gets open
+2019-04-24 17:07:22,501 -  Habitos - Menu Cycle -INFO - Verify  that if click master menu it getting to collapse
+2019-04-24 17:07:29,426 -  Habitos - Menu Cycle -INFO - Verify  that if click menu cycle it should redirect to related screen
+2019-04-24 17:07:33,242 -  Habitos - Menu Cycle -INFO - If Search the Plan name into search box it should fileter the plan
+2019-04-24 17:07:38,772 -  Habitos - Menu Cycle -INFO - If click edit button it should redirect to related screen
+2019-04-24 17:07:58,891 -  Habitos - Menu Cycle -INFO - Verify that if sub plan is displayed or not
+2019-04-24 17:07:59,532 -  Habitos - Menu Cycle -INFO - Verify that if should open the card while clicking the plan name
+2019-04-24 17:08:01,846 -  Habitos - Menu Cycle -INFO - Veify that if click tenant name it should open the relared meal card
+2019-04-24 17:08:02,738 -  Habitos - Menu Cycle -INFO - Verify that if the client type is correct
+2019-04-24 17:08:02,947 -  Habitos - Menu Cycle -INFO - Verify that if the client category is correctly displayed
+2019-04-24 17:08:03,107 -  Habitos - Menu Cycle -INFO - Verify that if the spread type is displayed corrected
+2019-04-24 17:08:06,218 -  Habitos - Menu Cycle -INFO - verify that user can assign the date
+2019-04-24 17:08:06,519 -  Habitos - Menu Cycle -INFO - verify that if the check box is checked or not
+2019-04-24 17:47:27,691 -  Habitos - Menu Cycle -INFO - browser gets open
+2019-04-24 17:47:40,956 -  Habitos - Menu Cycle -INFO - Verify that if click master menu it getting to collapse
+2019-04-24 17:47:47,331 -  Habitos - Menu Cycle -INFO - Verify  that if click menu cycle it should redirect to related screen
+2019-04-24 17:47:51,353 -  Habitos - Menu Cycle -INFO - If Search the Plan name into search box it should fileter the plan
+2019-04-24 17:47:57,262 -  Habitos - Menu Cycle -INFO - If click edit button it should redirect to related screen
+2019-04-24 17:48:17,401 -  Habitos - Menu Cycle -INFO - Verify that if sub plan is displayed or not
+2019-04-24 17:48:18,101 -  Habitos - Menu Cycle -INFO - Verify that if should open the card while clicking the plan name
+2019-04-24 17:48:20,405 -  Habitos - Menu Cycle -INFO - Veify that if click tenant name it should open the relared meal card
+2019-04-24 17:48:21,465 -  Habitos - Menu Cycle -INFO - Verify that if the client type is correct
+2019-04-24 17:48:21,696 -  Habitos - Menu Cycle -INFO - Verify that if the client category is correctly displayed
+2019-04-24 17:48:21,880 -  Habitos - Menu Cycle -INFO - Verify that if the spread type is displayed corrected
+2019-04-24 17:48:24,824 -  Habitos - Menu Cycle -INFO - verify that user can assign the date
+2019-04-24 17:48:25,295 -  Habitos - Menu Cycle -INFO - verify that if the check box is checked or not
+2019-04-24 18:16:12,911 - Habitos - LOGIN -INFO - browser gets open
+2019-04-24 18:16:18,971 - Habitos - LOGIN -INFO - browser gets valid ip address
+2019-04-24 18:16:19,369 - Habitos - LOGIN -INFO - Verify that if the User Name field is present 
+2019-04-24 18:16:19,420 - Habitos - LOGIN -INFO - Verify that if the username fields get autofocus
+2019-04-24 18:16:19,860 - Habitos - LOGIN -INFO - Verify that if the Password  field is present 
+2019-04-24 18:16:19,905 - Habitos - LOGIN -INFO - Verify that if the password fields get focused
+2019-04-24 18:16:20,919 - Habitos - LOGIN -INFO - Verify that if the user can't able to login with Invalid credentials
+2019-04-24 18:16:21,152 - Habitos - LOGIN -INFO - Verify that if the User Name field is present 
+2019-04-24 18:16:21,199 - Habitos - LOGIN -INFO - Verify that if the username fields get autofocus
+2019-04-24 18:16:21,580 - Habitos - LOGIN -INFO - Verify that if the Password  field is present 
+2019-04-24 18:16:21,636 - Habitos - LOGIN -INFO - Verify that if the password fields get focused
+2019-04-24 18:16:22,173 - Habitos - LOGIN -INFO - Verify that if the user can't able to login with Invalid credentials
+2019-04-24 18:16:22,432 - Habitos - LOGIN -INFO - Verify that if the username fields get autofocus
+2019-04-24 18:16:22,730 - Habitos - LOGIN -INFO - Verify that if the user can enter the user name
+2019-04-24 18:16:22,896 - Habitos - LOGIN -INFO - Verify that if the password fields get focused
+2019-04-24 18:16:23,140 - Habitos - LOGIN -INFO - Verify that user can login with valid credentials
+2019-04-24 19:06:41,955 - Habitos - CRM _ INFO -INFO - Verify that if click CRM info it should redirect to crm info index screen 
+2019-04-24 19:06:49,457 - Habitos - CRM _ INFO - VIEW  -INFO - Verify that if click view icon it should display the view screen automatically
+2019-04-24 19:06:49,459 - Habitos - CRM _ INFO - VIEW  -INFO - Verify that the client values are correctly displayed or not
+2019-04-24 19:07:41,286 -  Habitos - Utensils -INFO - browser gets open
+2019-04-24 19:07:42,888 -  Habitos - Utensils -INFO - browser gets valid ip address
+2019-04-24 19:07:51,097 -  Habitos - Utensils -INFO - Verify  that if click master menu it getting to collapse
+2019-04-24 19:07:57,671 -  Habitos - Utensils -INFO - Verify that if Utensils menu it should redirect to related  screen
+2019-04-24 19:07:59,521 -  Habitos - Utensils -INFO - If click add button is should redirect to add new screen
+2019-04-24 19:08:00,004 -  Habitos - Utensils -INFO - can enter the vessels name
+2019-04-24 19:08:00,490 -  Habitos - Utensils -INFO - user can enter the description
+2019-04-24 19:08:01,944 -  Habitos - Utensils -INFO - Verify that if the user can click the submit button
+2019-04-24 19:08:01,990 -  Habitos - Utensils -ERROR - Verify that if the user can click the submit button
+2019-04-24 19:08:01,991 -  Habitos - Utensils -ERROR - Verify that if the utensil are successfully created
+2019-04-24 19:08:02,011 -  Habitos - Utensils -ERROR - If click add button is should redirect to add new screen
+2019-04-24 19:08:02,020 -  Habitos - Utensils -ERROR - Verify that if the user can enter the vessels name
+2019-04-24 19:08:02,029 -  Habitos - Utensils -ERROR - user can enter the description
+2019-04-24 19:08:02,040 -  Habitos - Utensils -ERROR - Verify that if the vessel is successfully created
+2019-04-24 19:15:57,187 -  Habitos - Cook Sheet -INFO - browser gets valid ip address
+2019-04-24 19:16:12,186 -  Habitos - Cook Sheet -INFO - Verify that if click cook sheet it should redirect to related  screen
+2019-04-24 19:16:12,265 -  Habitos - Cook Sheet -INFO - Verify that if the date is presented in date field
+2019-04-24 19:16:12,532 -  Habitos - Cook Sheet -INFO - Verify that if the client name is correctly displayed
+2019-04-24 19:16:13,101 -  Habitos - Cook Sheet -INFO - Verify that if the meal time is correctly displayed
+2019-04-24 19:16:13,353 -  Habitos - Cook Sheet -INFO - Verify that if the receipe1 name is correctly displayed in cook sheet
+2019-04-24 19:16:13,604 -  Habitos - Cook Sheet -INFO - Verify that if the receipe2 name is correctly displayed in cook sheet
+2019-04-24 19:16:13,895 -  Habitos - Cook Sheet -INFO - Verify that if the receipe3 name is correctly displayed in cook sheet
+2019-04-24 19:32:14,984 -  Habitos - Cook Sheet -INFO - browser gets valid ip address
+2019-04-24 19:32:22,962 -  Habitos - Cook Sheet -INFO - verify that if click master menu it should open
+2019-04-24 19:32:31,347 -  Habitos - Cook Sheet -INFO - Verify that if click cook sheet it should redirect to related  screen
+2019-04-24 19:32:31,410 -  Habitos - Cook Sheet -INFO - Verify that if the date is presented in date field
+2019-04-24 19:32:31,660 -  Habitos - Cook Sheet -INFO - Verify that if the client name is correctly displayed
+2019-04-24 19:32:32,215 -  Habitos - Cook Sheet -INFO - Verify that if the meal time is correctly displayed
+2019-04-24 19:32:32,499 -  Habitos - Cook Sheet -INFO - Verify that if the receipe1 name is correctly displayed in cook sheet
+2019-04-24 19:32:32,794 -  Habitos - Cook Sheet -INFO - Verify that if the receipe2 name is correctly displayed in cook sheet
+2019-04-24 19:32:33,092 -  Habitos - Cook Sheet -INFO - Verify that if the receipe3 name is correctly displayed in cook sheet
+2019-04-24 19:36:44,045 -  Habitos - Cook Sheet -INFO - browser gets valid ip address
+2019-04-24 19:36:52,267 -  Habitos - Cook Sheet -INFO - verify that if click master menu it should open
+2019-04-24 19:37:00,598 -  Habitos - Cook Sheet -INFO - Verify that if click cook sheet it should redirect to related  screen
+2019-04-24 19:37:00,658 -  Habitos - Cook Sheet -INFO - Verify that if the date is presented in date field
+2019-04-24 19:37:00,905 -  Habitos - Cook Sheet -INFO - Verify that if the client name is correctly displayed
+2019-04-24 19:37:01,455 -  Habitos - Cook Sheet -INFO - Verify that if the meal time is correctly displayed
+2019-04-24 19:37:01,742 -  Habitos - Cook Sheet -INFO - Verify that if the receipe1 name is correctly displayed in cook sheet
+2019-04-24 19:37:02,042 -  Habitos - Cook Sheet -INFO - Verify that if the receipe2 name is correctly displayed in cook sheet
+2019-04-24 19:37:02,405 -  Habitos - Cook Sheet -INFO - Verify that if the receipe3 name is correctly displayed in cook sheet
+2019-04-25 11:11:57,508 -  Habitos - Cook Sheet -INFO - browser gets valid ip address
+2019-04-25 11:12:08,231 -  Habitos - Cook Sheet -INFO - verify that if click master menu it should open
+2019-04-25 11:12:15,776 -  Habitos - Cook Sheet -INFO - Verify that if click cook sheet it should redirect to related  screen
+2019-04-25 11:12:15,887 -  Habitos - Cook Sheet -INFO - Verify that if the date is presented in date field
+2019-04-25 11:12:16,157 -  Habitos - Cook Sheet -INFO - Verify that if the client name is correctly displayed
+2019-04-25 11:12:16,751 -  Habitos - Cook Sheet -INFO - Verify that if the meal time is correctly displayed
+2019-04-25 11:12:17,084 -  Habitos - Cook Sheet -INFO - Verify that if the receipe1 name is correctly displayed in cook sheet
+2019-04-25 11:12:27,484 -  Habitos - Cook Sheet -ERROR - Verify that if the receipe2 name is correctly displayed in cook sheet
+2019-04-25 11:12:37,752 -  Habitos - Cook Sheet -ERROR - Verify that if the receipe3 name is correctly displayed in cook sheet
+2019-04-25 11:21:34,126 -  Habitos - Cook Sheet -INFO - browser gets valid ip address
+2019-04-25 11:21:45,274 -  Habitos - Cook Sheet -INFO - verify that if click master menu it should open
+2019-04-25 11:21:52,804 -  Habitos - Cook Sheet -INFO - Verify that if click cook sheet it should redirect to related  screen
+2019-04-25 11:21:52,899 -  Habitos - Cook Sheet -INFO - Verify that if the date is presented in date field
+2019-04-25 11:21:53,165 -  Habitos - Cook Sheet -INFO - Verify that if the client name is correctly displayed
+2019-04-25 11:21:53,735 -  Habitos - Cook Sheet -INFO - Verify that if the meal time is correctly displayed
+2019-04-25 11:21:54,064 -  Habitos - Cook Sheet -INFO - Verify that if the receipe1 name is correctly displayed in cook sheet
+2019-04-25 11:21:54,409 -  Habitos - Cook Sheet -INFO - Verify that if the receipe2 name is correctly displayed in cook sheet
+2019-04-25 11:21:54,815 -  Habitos - Cook Sheet -INFO - Verify that if the receipe3 name is correctly displayed in cook sheet
+2019-04-25 11:22:45,676 -  Habitos - Utensils -INFO - browser gets open
+2019-04-25 11:22:47,368 -  Habitos - Utensils -INFO - browser gets valid ip address
+2019-04-25 11:22:57,085 -  Habitos - Utensils -INFO - Verify  that if click master menu it getting to collapse
+2019-04-25 11:23:04,619 -  Habitos - Utensils -INFO - Verify that if Utensils menu it should redirect to related  screen
+2019-04-25 11:23:06,986 -  Habitos - Utensils -INFO - If click add button is should redirect to add new screen
+2019-04-25 11:23:08,433 -  Habitos - Utensils -INFO - can enter the vessels name
+2019-04-25 11:23:08,527 -  Habitos - Utensils -ERROR - user can enter the description
+2019-04-25 11:23:08,558 -  Habitos - Utensils -ERROR - Verify that if the user can click the submit button
+2019-04-25 11:23:08,558 -  Habitos - Utensils -ERROR - Verify that if the utensil are successfully created
+2019-04-25 11:23:08,778 -  Habitos - Utensils -ERROR - If click add button is should redirect to add new screen
+2019-04-25 11:23:09,012 -  Habitos - Utensils -ERROR - Verify that if the user can enter the vessels name
+2019-04-25 11:23:09,027 -  Habitos - Utensils -ERROR - user can enter the description
+2019-04-25 11:23:09,059 -  Habitos - Utensils -ERROR - Verify that if the vessel is successfully created
+2019-04-25 12:56:15,474 -  Habitos - Vessel Planner -INFO - Verify  that if click master menu it getting to collapse
+2019-04-25 12:56:21,832 -  Habitos - Vessel Planner -INFO - Verify that if click menu planner menu it should redirect to menu planner screen
+2019-04-25 12:56:25,148 -  Habitos - Vessel Planner -INFO - Verify that user can click the date into date picker
+2019-04-25 12:56:25,243 -  Habitos - Vessel Planner -ERROR - Verify that user can click the date into date picker
+2019-04-25 12:56:26,446 -  Habitos - Vessel Planner -INFO - user can select the client type
+2019-04-25 12:56:27,710 -  Habitos - Vessel Planner -INFO - user can select  the meal course
+2019-04-25 12:56:34,816 -  Habitos - Vessel Planner -INFO - Verify the client datas is correct or not
+2019-04-25 12:56:40,076 -  Habitos - Vessel Planner -INFO - Verify that user can select the particular utensils
+2019-04-25 12:56:40,112 -  Habitos - Vessel Planner -ERROR - Verify that user can select the particular utensils
+2019-04-25 12:56:40,127 -  Habitos - Vessel Planner -ERROR - Verify that user can select the Utensils Id's 
+2019-04-25 12:56:40,157 -  Habitos - Vessel Planner -ERROR - Verify that user can select the particular utensils
+2019-04-25 12:56:40,182 -  Habitos - Vessel Planner -ERROR - Verify that user can select the Utensils Id's 
+2019-04-25 12:56:40,205 -  Habitos - Vessel Planner -ERROR - Verify that user can select the particular utensils
+2019-04-25 12:56:40,229 -  Habitos - Vessel Planner -ERROR - Verify that user can select the Utensils Id's 
+2019-04-25 12:56:40,254 -  Habitos - Vessel Planner -ERROR - Verify that user can select the particular utensils
+2019-04-25 12:56:40,275 -  Habitos - Vessel Planner -ERROR - Verify that user can select the Utensils Id's 
+2019-04-25 12:56:40,343 -  Habitos - Vessel Planner -ERROR - Verify that if user can click the submit button
+2019-04-25 12:56:40,346 -  Habitos - Vessel Planner -ERROR - Can't able to planning the vessels
+2019-04-25 12:58:11,393 -  Habitos - Vessel Planner -INFO - Verify  that if click master menu it getting to collapse
+2019-04-25 12:58:16,169 -  Habitos - Vessel Planner -INFO - Verify that if click menu planner menu it should redirect to menu planner screen
+2019-04-25 12:58:19,370 -  Habitos - Vessel Planner -INFO - Verify that user can click the date into date picker
+2019-04-25 12:58:19,439 -  Habitos - Vessel Planner -ERROR - Verify that user can click the date into date picker
+2019-04-25 12:58:20,600 -  Habitos - Vessel Planner -INFO - user can select the client type
+2019-04-25 12:58:21,825 -  Habitos - Vessel Planner -INFO - user can select  the meal course
+2019-04-25 12:58:28,964 -  Habitos - Vessel Planner -INFO - Verify the client datas is correct or not
+2019-04-25 12:58:33,746 -  Habitos - Vessel Planner -INFO - Verify that user can select the particular utensils
+2019-04-25 12:58:34,781 -  Habitos - Vessel Planner -INFO - Verify that user can select the particular utensils
+2019-04-25 12:58:35,717 -  Habitos - Vessel Planner -INFO - Verify that user can select the Utensils Id's 
+2019-04-25 12:58:36,637 -  Habitos - Vessel Planner -INFO - Verify that user can select the particular utensils
+2019-04-25 12:58:37,647 -  Habitos - Vessel Planner -INFO - Verify that user can select the Utensils Id's 
+2019-04-25 12:58:38,778 -  Habitos - Vessel Planner -INFO - Verify that user can select the particular utensils
+2019-04-25 12:58:39,981 -  Habitos - Vessel Planner -INFO - Verify that user can select the Utensils Id's 
+2019-04-25 12:58:41,114 -  Habitos - Vessel Planner -INFO - Verify that user can select the particular utensils
+2019-04-25 12:58:42,279 -  Habitos - Vessel Planner -INFO - Verify that user can select the Utensils Id's 
+2019-04-25 12:58:43,124 -  Habitos - Vessel Planner -INFO - Verify that if user can click the submit button
+2019-04-25 19:10:02,162 -  Habitos - Depreciation -INFO - browser gets open
+2019-04-25 19:10:24,074 -  Habitos - DEPRICEATION - ADD -INFO - Verify  that if click master menu it getting to collapse
+2019-04-25 19:10:28,313 -  Habitos - DEPRICEATION - ADD -INFO - If click depriceation category menu it should redirect to related screen
+2019-04-25 19:10:31,673 -  Habitos - DEPRICEATION - ADD -INFO - If click add button it should redirect to add screen
+2019-04-25 19:10:38,637 -  Habitos - DEPRICEATION - ADD -INFO - Verify that user can enter the depriciation category in input field
+2019-04-25 19:16:38,566 -  Habitos - Depreciation -INFO - browser gets open
+2019-04-25 19:16:52,999 -  Habitos - DEPRICEATION - ADD -INFO - Verify  that if click master menu it getting to collapse
+2019-04-25 19:16:57,088 -  Habitos - DEPRICEATION - ADD -INFO - If click depriceation category menu it should redirect to related screen
+2019-04-25 19:17:00,827 -  Habitos - DEPRICEATION - ADD -INFO - If click add button it should redirect to add screen
+2019-04-25 19:17:03,570 -  Habitos - DEPRICEATION - ADD -INFO - Verify that user can enter the depriciation category in input field
+2019-04-25 19:17:05,969 -  Habitos - DEPRICEATION - ADD -INFO - Verify that user can enter the depriciation percentage  in input field
+2019-04-26 10:25:46,253 -  Habitos - Depreciation -INFO - browser gets open
+2019-04-26 10:25:58,016 -  Habitos - DEPRICEATION - ADD -INFO - Verify  that if click master menu it getting to collapse
+2019-04-26 10:26:01,937 -  Habitos - DEPRICEATION - ADD -INFO - If click depriceation category menu it should redirect to related screen
+2019-04-26 10:26:05,921 -  Habitos - DEPRICEATION - ADD -INFO - If click add button it should redirect to add screen
+2019-04-26 10:26:09,250 -  Habitos - DEPRICEATION - ADD -INFO - Verify that user can enter the depriciation category in input field
+2019-04-26 10:26:19,565 -  Habitos - DEPRICEATION - ADD -ERROR - Verify that if the user can enter the depriceation category in input field
+2019-04-26 10:26:20,667 -  Habitos - DEPRICEATION - ADD -INFO - Verify that user can enter the depriciation percentage  in input field
+2019-04-26 10:26:21,573 -  Habitos - DEPRICEATION - ADD -INFO - If click submit button it should redirect to index screen
+2019-04-26 10:26:21,683 -  Habitos - DEPRICEATION - ADD -ERROR - Depriceation category  is successfully added
+2019-04-26 12:21:33,840 -  Habitos - Assets -INFO - browser gets open
+2019-04-26 12:21:46,231 -  Habitos - Assets -INFO - Verify that if click facility menu it should opent the menu
+2019-04-26 12:21:53,619 -  Habitos - Assets -INFO - Verify that if click asset menu it should redirect to related  screen
+2019-04-26 12:21:55,689 -  Habitos - Assets -INFO - Verify that if the add button is present 
+2019-04-26 12:21:57,615 -  Habitos - Assets -INFO - If click add button is should redirect to add new screen
+2019-04-26 12:21:58,951 -  Habitos - Assets - Add -INFO - Verify that user can select the facility name
+2019-04-26 12:21:59,786 -  Habitos - Assets - Add -INFO - Verify that user can select the Department
+2019-04-26 12:22:01,332 -  Habitos - Assets - Add -INFO - Verify that if the user can select the depriciation category
+2019-04-26 12:22:01,449 -  Habitos - Assets - Add -ERROR - Verify that if select depriciation category it should get depriceation percentage automatically
+2019-04-26 12:22:03,910 -  Habitos - Assets - Add -INFO - if click transit it should select the ratio button
+2019-04-26 12:22:04,690 -  Habitos - Assets - Add -INFO - Verify that user can select the depriciation category
+2019-04-26 12:22:06,961 -  Habitos - Assets - Add -INFO - Verify that user can enter the utensil body wight 
+2019-04-26 12:22:08,155 -  Habitos - Assets - Add -INFO - Verify that user can enter the utensil Lid Weight
+2019-04-26 12:22:11,106 -  Habitos - Assets - Add -INFO - User can able click the submit button
+2019-04-26 12:22:11,170 -  Habitos - Assets - Add -ERROR - Asset is not successfully added
+2019-04-26 12:22:11,202 -  Habitos - Assets - Add -ERROR - If click add button is should redirect to add new screen
+2019-04-26 12:22:11,420 -  Habitos - Assets - Add -ERROR - Verify that user can select the facility name
+2019-04-26 12:22:11,436 -  Habitos - Assets - Add -ERROR - Verify that user can select the Department
+2019-04-26 12:22:11,451 -  Habitos - Assets - Add -ERROR - Verify that user can select the depriciation category
+2019-04-26 12:22:13,479 -  Habitos - Assets - Add -ERROR - Verify that if click depriciation category it should get depriceation percentage automatically
+2019-04-26 12:22:15,509 -  Habitos - Assets - Add -INFO - if click transit it should select the ratio button
+2019-04-26 12:22:15,525 -  Habitos - Assets - Add -ERROR - Verify that user can select the depriciation category
+2019-04-26 12:22:15,541 -  Habitos - Assets - Add -ERROR - Verify that user can able to select the utensils name
+2019-04-26 12:22:15,557 -  Habitos - Assets - Add -ERROR - Verify that user enter the utensils body weights
+2019-04-26 12:22:15,573 -  Habitos - Assets - Add -ERROR - Verify that user can enter the  utensils Lid Weight
+2019-04-26 12:22:15,588 -  Habitos - Assets - Add -ERROR - Verify that user can enter the utensils price amount
+2019-04-26 12:22:15,604 -  Habitos - Assets - Add -ERROR - Verify that user can enter the utensils count
+2019-04-26 12:22:15,619 -  Habitos - Assets - Add -ERROR - User can able click the submit button
+2019-04-26 12:22:15,651 -  Habitos - Asset -  update -ERROR - Verify that can search the asset name using searching box
+2019-04-26 12:22:15,666 -  Habitos - Asset -  update -ERROR - If click asset status  button it should redirect to related screen
+2019-04-26 12:22:15,885 -  Habitos - Asset -  update -ERROR - Verify that if click add button it should redirect to related screen
+2019-04-26 12:22:15,900 -  Habitos - Asset -  update -ERROR - Verify that user can select the utensils name
+2019-04-26 12:22:15,916 -  Habitos - Asset -  update -ERROR - Verify that user can select the Kitchen  name
+2019-04-26 12:22:15,931 -  Habitos - Asset -  update -ERROR - Verify that user can Enter the Count
+2019-04-26 12:22:15,947 -  Habitos - Asset -  update -ERROR - Verify that user can Enter the Count
+2019-04-26 12:22:15,963 -  Habitos - Asset -  update -ERROR - Verify that user can Click the submit button
+2019-04-26 12:22:15,978 -  Habitos - Asset -  update -ERROR - Verify that it successfully add the status
+2019-04-26 12:22:16,197 -  Habitos - Asset -  update -ERROR - If click edit button it should redirect to related screen
+2019-04-26 12:22:18,225 -  Habitos - Asset -  update -ERROR - Verify that user can change status maintenace into  Inhouse
+2019-04-26 12:22:18,240 -  Habitos - Asset -  update -ERROR - Verify that if change the status it should affect the assets staus and count
+2019-04-26 17:44:00,720 -  Habitos - Assets -ERROR - browser gets valid ip address
+2019-04-26 17:44:01,017 -  Habitos - Assets -ERROR - Verify that if click facility menu it should opent the menu
+2019-04-26 17:44:03,021 -  Habitos - Assets -ERROR - Verify that if click asset menu it should redirect to related  screen
+2019-04-26 17:44:03,021 -  Habitos - Assets -ERROR - Verify that if the add button is present 
+2019-04-26 17:44:03,036 -  Habitos - Assets -ERROR - Asset is not successfully added
+2019-04-26 17:44:03,036 -  Habitos - Assets -ERROR - If click add button is should redirect to add new screen
+2019-04-26 17:44:03,240 -  Habitos - Assets - Add -ERROR - Verify that user can select the facility name
+2019-04-26 17:44:03,240 -  Habitos - Assets - Add -ERROR - Verify that user can select the Department
+2019-04-26 17:44:03,240 -  Habitos - Assets - Add -ERROR - Verify that user can select the depriciation category
+2019-04-26 17:44:05,253 -  Habitos - Assets - Add -ERROR - Verify that if click depriciation category it should get depriceation percentage automatically
+2019-04-26 17:44:07,280 -  Habitos - Assets - Add -INFO - if click transit it should select the ratio button
+2019-04-26 17:44:07,280 -  Habitos - Assets - Add -ERROR - Verify that user can select the depriciation category
+2019-04-26 17:44:07,280 -  Habitos - Assets - Add -ERROR - Verify that user can able to select the utensils name
+2019-04-26 17:44:07,280 -  Habitos - Assets - Add -ERROR - Verify that user enter the utensils body weights
+2019-04-26 17:44:07,280 -  Habitos - Assets - Add -ERROR - Verify that user can enter the  utensils Lid Weight
+2019-04-26 17:44:07,280 -  Habitos - Assets - Add -ERROR - Verify that user can enter the utensils price amount
+2019-04-26 17:44:07,295 -  Habitos - Assets - Add -ERROR - Verify that user can enter the utensils count
+2019-04-26 17:44:07,295 -  Habitos - Assets - Add -ERROR - User can able click the submit button
+2019-04-26 17:44:07,295 -  Habitos - Asset -  update -ERROR - Verify that can search the asset name using searching box
+2019-04-26 17:44:07,295 -  Habitos - Asset -  update -ERROR - If click asset status  button it should redirect to related screen
+2019-04-26 17:44:07,499 -  Habitos - Asset -  update -ERROR - Verify that if click add button it should redirect to related screen
+2019-04-26 17:44:07,499 -  Habitos - Asset -  update -ERROR - Verify that user can select the utensils name
+2019-04-26 17:44:07,499 -  Habitos - Asset -  update -ERROR - Verify that user can select the Kitchen  name
+2019-04-26 17:44:07,499 -  Habitos - Asset -  update -ERROR - Verify that user can Enter the Count
+2019-04-26 17:44:07,499 -  Habitos - Asset -  update -ERROR - Verify that user can Enter the Count
+2019-04-26 17:44:07,499 -  Habitos - Asset -  update -ERROR - Verify that user can Click the submit button
+2019-04-26 17:44:07,499 -  Habitos - Asset -  update -ERROR - Verify that it successfully add the status
+2019-04-26 17:44:07,717 -  Habitos - Asset -  update -ERROR - If click edit button it should redirect to related screen
+2019-04-26 17:45:06,354 -  Habitos - Assets -ERROR - browser gets valid ip address
+2019-04-26 17:45:06,651 -  Habitos - Assets -ERROR - Verify that if click facility menu it should opent the menu
+2019-04-26 17:45:08,665 -  Habitos - Assets -ERROR - Verify that if click asset menu it should redirect to related  screen
+2019-04-26 17:45:08,665 -  Habitos - Assets -ERROR - Verify that if the add button is present 
+2019-04-26 17:45:08,680 -  Habitos - Assets -ERROR - Asset is not successfully added
+2019-04-26 17:45:08,680 -  Habitos - Assets -ERROR - If click add button is should redirect to add new screen
+2019-04-26 17:45:08,900 -  Habitos - Assets - Add -ERROR - Verify that user can select the facility name
+2019-04-26 17:45:08,900 -  Habitos - Assets - Add -ERROR - Verify that user can select the Department
+2019-04-26 17:45:08,900 -  Habitos - Assets - Add -ERROR - Verify that user can select the depriciation category
+2019-04-26 17:46:01,499 -  Habitos - Assets -ERROR - browser gets valid ip address
+2019-04-26 17:46:01,796 -  Habitos - Assets -ERROR - Verify that if click facility menu it should opent the menu
+2019-04-26 17:46:03,809 -  Habitos - Assets -ERROR - Verify that if click asset menu it should redirect to related  screen
+2019-04-26 17:46:03,809 -  Habitos - Assets -ERROR - Verify that if the add button is present 
+2019-04-26 17:46:03,824 -  Habitos - Assets -ERROR - Asset is not successfully added
+2019-04-26 17:46:03,824 -  Habitos - Assets -ERROR - If click add button is should redirect to add new screen
+2019-04-26 17:47:32,648 -  Habitos - Assets -ERROR - browser gets valid ip address
+2019-04-26 17:47:32,942 -  Habitos - Assets -ERROR - Verify that if click facility menu it should opent the menu
+2019-04-26 17:47:34,953 -  Habitos - Assets -ERROR - Verify that if click asset menu it should redirect to related  screen
+2019-04-26 17:47:34,953 -  Habitos - Assets -ERROR - Verify that if the add button is present 
+2019-04-26 17:47:34,968 -  Habitos - Assets -ERROR - Asset is not successfully added
+2019-04-26 17:47:34,968 -  Habitos - Assets -ERROR - If click add button is should redirect to add new screen
+2019-04-26 17:47:35,172 -  Habitos - Assets - Add -ERROR - Verify that user can select the facility name
+2019-04-26 17:47:35,172 -  Habitos - Assets - Add -ERROR - Verify that user can select the Department
+2019-04-26 17:47:35,172 -  Habitos - Assets - Add -ERROR - Verify that user can select the depriciation category
+2019-04-26 17:47:37,173 -  Habitos - Assets - Add -ERROR - Verify that if click depriciation category it should get depriceation percentage automatically
+2019-04-26 17:47:39,188 -  Habitos - Assets - Add -INFO - if click transit it should select the ratio button
+2019-04-26 17:47:39,188 -  Habitos - Assets - Add -ERROR - Verify that user can select the depriciation category
+2019-04-26 17:47:39,188 -  Habitos - Assets - Add -ERROR - Verify that user can able to select the utensils name
+2019-04-26 17:47:39,188 -  Habitos - Assets - Add -ERROR - Verify that user enter the utensils body weights
+2019-04-26 17:47:39,188 -  Habitos - Assets - Add -ERROR - Verify that user can enter the  utensils Lid Weight
+2019-04-26 17:47:39,188 -  Habitos - Assets - Add -ERROR - Verify that user can enter the utensils price amount
+2019-04-26 17:47:39,188 -  Habitos - Assets - Add -ERROR - Verify that user can enter the utensils count
+2019-04-26 17:47:39,188 -  Habitos - Assets - Add -ERROR - User can able click the submit button
+2019-04-26 17:47:39,203 -  Habitos - Asset -  update -ERROR - Verify that can search the asset name using searching box
+2019-04-26 17:47:39,203 -  Habitos - Asset -  update -ERROR - If click asset status  button it should redirect to related screen
+2019-04-26 17:48:25,330 -  Habitos - Assets -ERROR - browser gets valid ip address
+2019-04-26 17:48:25,627 -  Habitos - Assets -ERROR - Verify that if click facility menu it should opent the menu
+2019-04-26 17:52:08,710 -  Habitos - Assets -INFO - browser gets open
+2019-04-26 17:52:17,358 -  Habitos - Assets -ERROR - Verify that if click facility menu it should opent the menu
+2019-04-26 17:52:49,073 -  Habitos - Assets -INFO - browser gets open
+2019-04-26 17:53:01,087 -  Habitos - Assets -INFO - Verify that if click facility menu it should opent the menu
+2019-04-26 17:53:07,389 -  Habitos - Assets -INFO - Verify that if click asset menu it should redirect to related  screen
+2019-04-26 17:53:17,517 -  Habitos - Assets -ERROR - Verify that user can able to select the utensils name
+2019-04-26 17:53:18,924 -  Habitos - Assets -INFO - Verify that if the page scroll is working
+2019-04-26 17:53:26,373 -  Habitos - Assets -ERROR - Verify that user can enter the utensil body wight 
+2019-04-26 17:53:26,388 -  Habitos - Assets -ERROR - Verify that user can enter the utensil Lid Weight
+2019-04-26 17:53:26,401 -  Habitos - Assets -ERROR - Verify that user can enter the  utensils price
+2019-04-26 17:53:26,417 -  Habitos - Assets -ERROR - Verify that user can enter the utensils count
+2019-04-26 17:53:26,432 -  Habitos - Assets -ERROR - User can able click the submit button
+2019-04-26 17:53:26,456 -  Habitos - Assets -ERROR - Asset is not successfully added
+2019-04-26 17:53:26,487 -  Habitos - Assets -ERROR - If click add button is should redirect to add new screen
+2019-04-26 17:53:26,695 -  Habitos - Assets - Add -ERROR - Verify that user can select the facility name
+2019-04-26 17:53:26,708 -  Habitos - Assets - Add -ERROR - Verify that user can select the Department
+2019-04-26 17:53:26,717 -  Habitos - Assets - Add -ERROR - Verify that user can select the depriciation category
+2019-04-26 17:54:13,305 -  Habitos - Assets -INFO - browser gets open
+2019-04-26 18:05:48,024 -  Habitos - Assets -ERROR - Verify that if click facility menu it should opent the menu
+2019-04-26 18:06:00,124 -  Habitos - Assets -ERROR - Verify that if click asset menu it should redirect to related  screen
+2019-04-26 18:06:10,245 -  Habitos - Assets -ERROR - Verify that if the add button is present 
+2019-04-26 18:06:19,999 -  Habitos - Assets -INFO - Verify that user can able to select the utensils name
+2019-04-26 18:06:20,570 -  Habitos - Assets -INFO - Verify that if the page scroll is working
+2019-04-26 18:06:21,618 -  Habitos - Assets -INFO - Verify that user can enter the utensil body wight 
+2019-04-26 18:06:22,648 -  Habitos - Assets -INFO - Verify that user can enter the utensil Lid Weight
+2019-04-26 18:06:23,596 -  Habitos - Assets -INFO - Verify that user can enter the  utensils price
+2019-04-26 18:06:24,488 -  Habitos - Assets -INFO - Verify that user can enter the utensils count
+2019-04-26 18:06:25,005 -  Habitos - Assets -INFO - User can able click the submit button
+2019-04-26 18:06:40,192 -  Habitos - Assets -ERROR - Asset is not successfully added
+2019-04-26 18:06:42,507 -  Habitos - Assets -INFO - If click add button is should redirect to add new screen
+2019-04-26 18:06:43,851 -  Habitos - Assets - Add -INFO - Verify that user can select the facility name
+2019-04-26 18:06:45,223 -  Habitos - Assets - Add -INFO - Verify that user can select the Department
+2019-04-26 18:06:47,457 -  Habitos - Assets - Add -INFO - Verify that if the user can select the depriciation category
+2019-04-26 18:06:50,079 -  Habitos - Assets - Add -INFO - Verify that if click depriciation category it should get depriceation percentage automatically
+2019-04-26 18:06:50,665 -  Habitos - Assets -INFO - browser gets open
+2019-04-26 18:06:52,659 -  Habitos - Assets - Add -INFO - if click transit it should select the ratio button
+2019-04-26 18:06:52,846 -  Habitos - Assets - Add -INFO - if click transit it should select the ratio button
+2019-04-26 18:06:54,033 -  Habitos - Assets - Add -INFO - Verify that user can select the depriciation category
+2019-04-26 18:06:56,661 -  Habitos - Assets - Add -INFO - Verify that user enter the utensils body weights
+2019-04-26 18:06:57,853 -  Habitos - Assets - Add -INFO - Verify that user can enter the  utensils Lid Weight
+2019-04-26 18:06:59,176 -  Habitos - Assets - Add -INFO - Verify that user can enter the utensils price amount
+2019-04-26 18:07:00,012 -  Habitos - Assets - Add -INFO - Verify that user can enter the utensils count
+2019-04-26 18:07:03,152 -  Habitos - Assets - Add -INFO - User can able click the submit button
+2019-04-26 18:07:03,588 -  Habitos - Assets -INFO - Verify that if click facility menu it should opent the menu
+2019-04-26 18:07:08,738 -  Habitos - Asset -  update -INFO - Verify that can search the asset name using searching box
+2019-04-26 18:07:10,361 -  Habitos - Assets -INFO - Verify that if click asset menu it should redirect to related  screen
+2019-04-26 18:07:11,439 -  Habitos - Asset -  update -INFO - If click asset status  button it should redirect to related screen
+2019-04-26 18:07:12,712 -  Habitos - Asset -  update -INFO - Verify that if click add button it should redirect to related screen
+2019-04-26 18:07:13,284 -  Habitos - Assets -INFO - Verify that if the add button is present 
+2019-04-26 18:07:15,667 -  Habitos - Asset -  update -INFO - Verify that user can select the utensils name
+2019-04-26 18:07:16,096 -  Habitos - Assets -INFO - Verify that user can able to select the utensils name
+2019-04-26 18:07:16,687 -  Habitos - Assets -INFO - Verify that if the page scroll is working
+2019-04-26 18:07:16,749 -  Habitos - Asset -  update -INFO - Verify that user can select the Kitchen  name
+2019-04-26 18:07:17,653 -  Habitos - Asset -  update -INFO - Verify that user can Enter the Count
+2019-04-26 18:07:17,703 -  Habitos - Assets -INFO - Verify that user can enter the utensil body wight 
+2019-04-26 18:07:18,759 -  Habitos - Assets -INFO - Verify that user can enter the utensil Lid Weight
+2019-04-26 18:07:19,098 -  Habitos - Asset -  update -INFO - Verify that user can Enter the Count
+2019-04-26 18:07:20,431 -  Habitos - Assets -INFO - Verify that user can enter the  utensils price
+2019-04-26 18:07:22,258 -  Habitos - Assets -INFO - Verify that user can enter the utensils count
+2019-04-26 18:07:22,330 -  Habitos - Asset -  update -INFO - Verify that user can Click the submit button
+2019-04-26 18:07:22,551 -  Habitos - Asset -  update -INFO - Verify that it successfully add the status
+2019-04-26 18:07:22,758 -  Habitos - Assets -INFO - User can able click the submit button
+2019-04-26 18:07:26,566 -  Habitos - Asset -  update -INFO - If click edit button it should redirect to related screen
+2019-04-26 18:07:30,374 -  Habitos - Asset -  update -INFO - Verify that user can change status maintenace into  Inhouse
+2019-04-26 18:07:32,751 -  Habitos - Asset -  update -INFO - Verify that if change the status it should affect the assets staus and count
+2019-04-26 18:07:34,735 -  Habitos - Assets -ERROR - Asset is not successfully added
+2019-04-26 18:07:34,830 -  Habitos - Assets -ERROR - If click add button is should redirect to add new screen
+2019-04-26 18:07:35,049 -  Habitos - Assets - Add -ERROR - Verify that user can select the facility name
+2019-04-26 18:07:35,065 -  Habitos - Assets - Add -ERROR - Verify that user can select the Department
+2019-04-26 18:07:35,096 -  Habitos - Assets - Add -ERROR - Verify that user can select the depriciation category
+2019-04-26 18:07:37,108 -  Habitos - Assets - Add -ERROR - Verify that if click depriciation category it should get depriceation percentage automatically
+2019-04-26 18:22:23,013 -  Habitos - Vessel Planner -ERROR - browser isn't open
+2019-04-26 18:22:23,323 -  Habitos - Vessel Planner -ERROR - Verify  that if click master menu it getting to collapse
+2019-04-26 18:22:51,113 -  Habitos - Vessel Planner -ERROR - browser isn't open
+2019-04-26 18:22:51,433 -  Habitos - Vessel Planner -ERROR - Verify  that if click master menu it getting to collapse
+2019-04-26 18:22:55,463 -  Habitos - Vessel Planner -ERROR - Verify that user can click the date into date picker
+2019-04-26 18:22:55,465 -  Habitos - Vessel Planner -ERROR - user can select the client type
+2019-04-26 18:22:55,466 -  Habitos - Vessel Planner -ERROR - user can select  the meal course
+2019-04-26 18:24:40,144 -  Habitos - Vessel Planner -INFO - Verify  that if click master menu it getting to collapse
+2019-04-26 18:24:48,468 -  Habitos - Vessel Planner -INFO - Verify that if click menu planner menu it should redirect to menu planner screen
+2019-04-26 18:24:51,870 -  Habitos - Vessel Planner -INFO - Verify that user can click the date into date picker
+2019-04-26 18:24:52,058 -  Habitos - Vessel Planner -ERROR - Verify that user can click the date into date picker
+2019-04-26 18:24:53,241 -  Habitos - Vessel Planner -INFO - user can select the client type
+2019-04-26 18:24:54,347 -  Habitos - Vessel Planner -INFO - user can select  the meal course
+2019-04-26 18:25:02,664 -  Habitos - Vessel Planner -ERROR - Verify the client datas is correct or not
+2019-04-26 18:25:04,701 -  Habitos - Vessel Planner -ERROR - Verify that user can select the particular utensils
+2019-04-26 18:25:04,733 -  Habitos - Vessel Planner -ERROR - Verify that user can select the particular utensils
+2019-04-26 18:25:04,748 -  Habitos - Vessel Planner -ERROR - Verify that user can select the Utensils Id's 
+2019-04-26 18:25:04,780 -  Habitos - Vessel Planner -ERROR - Verify that user can select the particular utensils
+2019-04-26 18:25:04,795 -  Habitos - Vessel Planner -ERROR - Verify that user can select the Utensils Id's 
+2019-04-26 18:25:04,826 -  Habitos - Vessel Planner -ERROR - Verify that user can select the particular utensils
+2019-04-26 18:25:04,842 -  Habitos - Vessel Planner -ERROR - Verify that user can select the Utensils Id's 
+2019-04-26 18:25:04,873 -  Habitos - Vessel Planner -ERROR - Verify that user can select the particular utensils
+2019-04-26 18:25:04,889 -  Habitos - Vessel Planner -ERROR - Verify that user can select the Utensils Id's 
+2019-04-26 18:25:04,920 -  Habitos - Vessel Planner -ERROR - Verify that if user can click the submit button
+2019-04-26 18:25:04,920 -  Habitos - Vessel Planner -ERROR - Can't able to planning the vessels
+2019-04-26 18:27:09,659 -  Habitos - Vessel Planner -INFO - Verify  that if click master menu it getting to collapse
+2019-04-26 18:27:14,665 -  Habitos - Vessel Planner -INFO - Verify that if click menu planner menu it should redirect to menu planner screen
+2019-04-26 18:27:17,779 -  Habitos - Vessel Planner -INFO - Verify that user can click the date into date picker
+2019-04-26 18:27:17,842 -  Habitos - Vessel Planner -ERROR - Verify that user can click the date into date picker
+2019-04-26 18:27:18,737 -  Habitos - Vessel Planner -INFO - user can select the client type
+2019-04-26 18:27:19,715 -  Habitos - Vessel Planner -INFO - user can select  the meal course
+2019-04-26 18:27:26,637 -  Habitos - Vessel Planner -INFO - Verify the client datas is correct or not
+2019-04-26 18:27:31,318 -  Habitos - Vessel Planner -INFO - Verify that user can select the particular utensils
+2019-04-26 18:27:31,341 -  Habitos - Vessel Planner -ERROR - Verify that user can select the particular utensils
+2019-04-26 18:27:31,354 -  Habitos - Vessel Planner -ERROR - Verify that user can select the Utensils Id's 
+2019-04-26 18:27:31,373 -  Habitos - Vessel Planner -ERROR - Verify that user can select the particular utensils
+2019-04-26 18:27:31,388 -  Habitos - Vessel Planner -ERROR - Verify that user can select the Utensils Id's 
+2019-04-26 18:27:31,407 -  Habitos - Vessel Planner -ERROR - Verify that user can select the particular utensils
+2019-04-26 18:27:31,417 -  Habitos - Vessel Planner -ERROR - Verify that user can select the Utensils Id's 
+2019-04-26 18:27:31,436 -  Habitos - Vessel Planner -ERROR - Verify that user can select the particular utensils
+2019-04-26 18:27:31,446 -  Habitos - Vessel Planner -ERROR - Verify that user can select the Utensils Id's 
+2019-04-26 18:27:31,469 -  Habitos - Vessel Planner -ERROR - Verify that if user can click the submit button
+2019-04-26 18:27:31,471 -  Habitos - Vessel Planner -ERROR - Can't able to planning the vessels
+2019-04-26 18:29:30,738 -  Habitos - Vessel Planner -INFO - Verify  that if click master menu it getting to collapse
+2019-04-26 18:29:35,659 -  Habitos - Vessel Planner -INFO - Verify that if click menu planner menu it should redirect to menu planner screen
+2019-04-26 18:29:39,025 -  Habitos - Vessel Planner -INFO - Verify that user can click the date into date picker
+2019-04-26 18:29:39,125 -  Habitos - Vessel Planner -ERROR - Verify that user can click the date into date picker
+2019-04-26 18:29:40,447 -  Habitos - Vessel Planner -INFO - user can select the client type
+2019-04-26 18:29:41,550 -  Habitos - Vessel Planner -INFO - user can select  the meal course
+2019-04-26 18:29:48,779 -  Habitos - Vessel Planner -INFO - Verify the client datas is correct or not
+2019-04-26 18:29:54,118 -  Habitos - Vessel Planner -INFO - Verify that user can select the particular utensils
+2019-04-26 18:29:54,149 -  Habitos - Vessel Planner -ERROR - Verify that user can select the particular utensils
+2019-04-26 18:29:54,161 -  Habitos - Vessel Planner -ERROR - Verify that user can select the Utensils Id's 
+2019-04-26 18:29:54,180 -  Habitos - Vessel Planner -ERROR - Verify that user can select the particular utensils
+2019-04-26 18:29:54,192 -  Habitos - Vessel Planner -ERROR - Verify that user can select the Utensils Id's 
+2019-04-26 18:29:54,210 -  Habitos - Vessel Planner -ERROR - Verify that user can select the particular utensils
+2019-04-26 18:29:54,224 -  Habitos - Vessel Planner -ERROR - Verify that user can select the Utensils Id's 
+2019-04-26 18:29:54,244 -  Habitos - Vessel Planner -ERROR - Verify that user can select the particular utensils
+2019-04-26 18:29:54,262 -  Habitos - Vessel Planner -ERROR - Verify that user can select the Utensils Id's 
+2019-04-26 18:29:54,290 -  Habitos - Vessel Planner -ERROR - Verify that if user can click the submit button
+2019-04-26 18:29:54,291 -  Habitos - Vessel Planner -ERROR - Can't able to planning the vessels
+2019-04-26 18:40:28,045 -  Habitos - Vessel Planner -INFO - Verify  that if click master menu it getting to collapse
+2019-04-26 18:40:33,131 -  Habitos - Vessel Planner -INFO - Verify that if click menu planner menu it should redirect to menu planner screen
+2019-04-26 18:40:36,521 -  Habitos - Vessel Planner -INFO - Verify that user can click the date into date picker
+2019-04-26 18:40:36,617 -  Habitos - Vessel Planner -ERROR - Verify that user can click the date into date picker
+2019-04-26 18:40:38,111 -  Habitos - Vessel Planner -INFO - user can select the client type
+2019-04-26 18:40:45,163 -  Habitos - Vessel Planner -ERROR - user can select  the meal course
+2019-04-26 18:40:53,225 -  Habitos - Vessel Planner -ERROR - Verify the client datas is correct or not
+2019-04-26 18:41:01,340 -  Habitos - Vessel Planner -ERROR - Verify that user can select the particular utensils
+2019-04-26 18:41:05,394 -  Habitos - Vessel Planner -ERROR - Verify that user can select the particular utensils
+2019-04-26 18:41:11,462 -  Habitos - Vessel Planner -ERROR - Verify that user can select the Utensils Id's 
+2019-04-26 18:41:17,549 -  Habitos - Vessel Planner -ERROR - Verify that user can select the particular utensils
+2019-04-26 18:41:23,639 -  Habitos - Vessel Planner -ERROR - Verify that user can select the Utensils Id's 
+2019-04-26 18:41:29,739 -  Habitos - Vessel Planner -ERROR - Verify that user can select the particular utensils
+2019-04-26 18:41:35,807 -  Habitos - Vessel Planner -ERROR - Verify that user can select the Utensils Id's 
+2019-04-26 18:41:41,892 -  Habitos - Vessel Planner -ERROR - Verify that user can select the particular utensils
+2019-04-26 18:41:47,960 -  Habitos - Vessel Planner -ERROR - Verify that user can select the Utensils Id's 
+2019-04-26 18:41:54,060 -  Habitos - Vessel Planner -ERROR - Verify that if user can click the submit button
+2019-04-26 18:41:54,061 -  Habitos - Vessel Planner -ERROR - Can't able to planning the vessels
+2019-04-26 19:01:40,486 -  Habitos - Assets -INFO - browser gets open
+2019-04-26 19:06:22,555 -  Habitos - Assets -INFO - browser gets open
+2019-04-26 19:24:26,356 -  Habitos - Assets -INFO - browser gets open
+2019-04-26 19:24:32,769 -  Habitos - Assets -ERROR - Verify  that if click master menu it getting to collapse
+2019-04-26 19:24:36,920 -  Habitos - Assets -ERROR - Verify that user can click the date into date picker
+2019-04-26 19:24:36,951 -  Habitos - Assets -ERROR - user can select the client type
+2019-04-26 19:24:36,983 -  Habitos - Assets -ERROR - user can select  the meal course
+2019-04-26 19:24:39,011 -  Habitos - Assets -ERROR - Verify the client datas is correct or not
+2019-04-26 19:24:41,054 -  Habitos - Assets -ERROR - Verify that user can select the particular utensils
+2019-04-26 19:24:41,101 -  Habitos - Assets -ERROR - Verify that user can select the particular utensils
+2019-04-26 19:24:41,117 -  Habitos - Assets -ERROR - Verify that user can select the Utensils Id's 
+2019-04-26 19:24:41,132 -  Habitos - Assets -ERROR - Verify that user can select the particular utensils
+2019-04-26 19:24:41,148 -  Habitos - Assets -ERROR - Verify that user can select the Utensils Id's 
+2019-04-26 19:24:41,179 -  Habitos - Assets -ERROR - Verify that user can select the particular utensils
+2019-04-26 19:24:41,210 -  Habitos - Assets -ERROR - Verify that user can select the Utensils Id's 
+2019-04-26 19:24:41,241 -  Habitos - Assets -ERROR - Verify that user can select the particular utensils
+2019-04-26 19:24:41,257 -  Habitos - Assets -ERROR - Verify that user can select the Utensils Id's 
+2019-04-26 19:24:41,288 -  Habitos - Assets -ERROR - Verify that if user can click the submit button
+2019-04-26 19:24:41,288 -  Habitos - Assets -ERROR - Can't able to planning the vessels
+2019-04-26 19:27:37,281 -  Habitos - Assets -INFO - browser gets open
+2019-04-26 19:27:39,002 -  Habitos - Assets -ERROR - Verify  that if click master menu it getting to collapse
+2019-04-26 19:27:43,119 -  Habitos - Assets -ERROR - Verify that user can click the date into date picker
+2019-04-26 19:27:43,135 -  Habitos - Assets -ERROR - user can select the client type
+2019-04-26 19:27:43,144 -  Habitos - Assets -ERROR - user can select  the meal course
+2019-04-26 19:27:45,172 -  Habitos - Assets -ERROR - Verify the client datas is correct or not
+2019-04-26 19:27:47,216 -  Habitos - Assets -ERROR - Verify that user can select the particular utensils
+2019-04-26 19:27:47,247 -  Habitos - Assets -ERROR - Verify that user can select the particular utensils
+2019-04-26 19:27:47,263 -  Habitos - Assets -ERROR - Verify that user can select the Utensils Id's 
+2019-04-26 19:27:47,294 -  Habitos - Assets -ERROR - Verify that user can select the particular utensils
+2019-04-26 19:27:47,310 -  Habitos - Assets -ERROR - Verify that user can select the Utensils Id's 
+2019-04-26 19:27:47,341 -  Habitos - Assets -ERROR - Verify that user can select the particular utensils
+2019-04-26 19:27:47,356 -  Habitos - Assets -ERROR - Verify that user can select the Utensils Id's 
+2019-04-26 19:27:47,388 -  Habitos - Assets -ERROR - Verify that user can select the particular utensils
+2019-04-26 19:27:47,419 -  Habitos - Assets -ERROR - Verify that user can select the Utensils Id's 
+2019-04-26 19:27:47,466 -  Habitos - Assets -ERROR - Verify that if user can click the submit button
+2019-04-26 19:27:47,466 -  Habitos - Assets -ERROR - Can't able to planning the vessels
+2019-04-27 10:22:14,692 -  Habitos - Cook Sheet -ERROR - verify that if click master menu it should open
+2019-04-27 10:22:17,715 -  Habitos - Cook Sheet -ERROR - Verify that if click cook sheet it should redirect to related  screen
+2019-04-27 10:22:18,739 -  Habitos - Cook Sheet -ERROR - Verify that if the cook sheet contain the values
+2019-04-27 10:22:19,749 -  Habitos - Cook Sheet -ERROR - Verify that if the receipe1 name is correctly displayed in cook sheet
+2019-04-27 10:22:20,956 -  Habitos - Cook Sheet -ERROR - Verify that if the receipe2 name is correctly displayed in cook sheet
+2019-04-27 10:22:22,163 -  Habitos - Cook Sheet -ERROR - Verify that if the receipe3 name is correctly displayed in cook sheet
+2019-04-27 10:22:32,361 -  Habitos - Cook Sheet -ERROR - verify that if click master menu it should open
+2019-04-27 10:22:35,395 -  Habitos - Cook Sheet -ERROR - Verify that if click cook sheet it should redirect to related  screen
+2019-04-27 10:22:36,410 -  Habitos - Cook Sheet -ERROR - Verify that if the cook sheet contain the values
+2019-04-27 10:22:37,418 -  Habitos - Cook Sheet -ERROR - Verify that if the receipe1 name is correctly displayed in cook sheet
+2019-04-27 10:22:38,624 -  Habitos - Cook Sheet -ERROR - Verify that if the receipe2 name is correctly displayed in cook sheet
+2019-04-27 10:22:39,830 -  Habitos - Cook Sheet -ERROR - Verify that if the receipe3 name is correctly displayed in cook sheet
+2019-04-27 10:24:15,281 -  Habitos - Cook Sheet -INFO - browser gets valid ip address
+2019-04-27 10:24:29,588 -  Habitos - Cook Sheet -INFO - verify that if click master menu it should open
+2019-04-27 10:24:41,129 -  Habitos - Cook Sheet -INFO - Verify that if click cook sheet it should redirect to related  screen
+2019-04-27 10:24:42,295 -  Habitos - Cook Sheet -INFO - Verify that if the date is presented in cook sheet
+2019-04-27 10:24:42,835 -  Habitos - Cook Sheet -INFO - Verify that if the client name is correctly displayed
+2019-04-27 10:24:43,384 -  Habitos - Cook Sheet -INFO - Verify that if the meal time is correctly displayed
+2019-04-27 10:24:43,895 -  Habitos - Cook Sheet -INFO - Verify that if the receipe1 name is correctly displayed in cook sheet
+2019-04-27 10:24:54,898 -  Habitos - Cook Sheet -ERROR - Verify that if the receipe2 name is correctly displayed in cook sheet
+2019-04-27 10:25:04,307 -  Habitos - Cook Sheet -ERROR - Verify that if the receipe3 name is correctly displayed in cook sheet
+2019-04-27 11:00:43,110 -  Habitos - Cook Sheet -ERROR - verify that if click master menu it should open
+2019-04-27 11:00:45,136 -  Habitos - Cook Sheet -ERROR - Verify that if click cook sheet it should redirect to related  screen
+2019-04-27 11:00:45,146 -  Habitos - Cook Sheet -ERROR - Verify that if the cook sheet contain the values
+2019-04-27 11:00:45,149 -  Habitos - Cook Sheet -ERROR - Verify that if the receipe1 name is correctly displayed in cook sheet
+2019-04-27 11:00:45,351 -  Habitos - Cook Sheet -ERROR - Verify that if the receipe2 name is correctly displayed in cook sheet
+2019-04-27 11:00:45,552 -  Habitos - Cook Sheet -ERROR - Verify that if the receipe3 name is correctly displayed in cook sheet
+2019-04-27 15:15:31,894 -  Habitos - Assets -ERROR - browser gets valid ip address
+2019-04-27 15:15:32,420 -  Habitos - Assets -ERROR - Verify  that if click master menu it getting to collapse
+2019-04-27 15:15:36,446 -  Habitos - Assets -ERROR - Verify that user can click the date into date picker
+2019-04-27 15:15:36,449 -  Habitos - Assets -ERROR - user can select the client type
+2019-04-27 15:15:36,454 -  Habitos - Assets -ERROR - user can select  the meal course
+2019-04-27 15:15:38,461 -  Habitos - Assets -ERROR - Verify the client datas is correct or not
+2019-04-27 15:15:40,489 -  Habitos - Assets -ERROR - Verify that user can select the particular utensils
+2019-04-27 15:15:40,489 -  Habitos - Assets -ERROR - Verify that user can select the particular utensils
+2019-04-27 15:15:40,489 -  Habitos - Assets -ERROR - Verify that user can select the Utensils Id's 
+2019-04-27 15:15:40,504 -  Habitos - Assets -ERROR - Verify that user can select the particular utensils
+2019-04-27 15:15:40,520 -  Habitos - Assets -ERROR - Verify that user can select the Utensils Id's 
+2019-04-27 15:15:40,520 -  Habitos - Assets -ERROR - Verify that user can select the particular utensils
+2019-04-27 15:15:40,520 -  Habitos - Assets -ERROR - Verify that user can select the Utensils Id's 
+2019-04-27 15:15:40,536 -  Habitos - Assets -ERROR - Verify that user can select the particular utensils
+2019-04-27 15:15:40,536 -  Habitos - Assets -ERROR - Verify that user can select the Utensils Id's 
+2019-04-27 15:15:40,551 -  Habitos - Assets -ERROR - Verify that if user can click the submit button
+2019-04-27 15:15:40,567 -  Habitos - Assets -ERROR - Can't able to planning the vessels
+2019-04-27 15:16:16,770 -  Habitos - Cook Sheet -ERROR - verify that if click master menu it should open
+2019-04-27 15:16:18,809 -  Habitos - Cook Sheet -ERROR - Verify that if click cook sheet it should redirect to related  screen
+2019-04-27 15:16:18,809 -  Habitos - Cook Sheet -ERROR - Verify that if the cook sheet contain the values
+2019-04-27 15:16:18,809 -  Habitos - Cook Sheet -ERROR - Verify that if the receipe1 name is correctly displayed in cook sheet
+2019-04-27 15:16:19,028 -  Habitos - Cook Sheet -ERROR - Verify that if the receipe2 name is correctly displayed in cook sheet
+2019-04-27 15:16:19,229 -  Habitos - Cook Sheet -ERROR - Verify that if the receipe3 name is correctly displayed in cook sheet
+2019-04-27 15:16:52,745 -  Habitos - Cook Sheet -ERROR - verify that if click master menu it should open
+2019-04-27 15:16:54,746 -  Habitos - Cook Sheet -ERROR - Verify that if click cook sheet it should redirect to related  screen
+2019-04-27 15:16:54,746 -  Habitos - Cook Sheet -ERROR - Verify that if the cook sheet contain the values
+2019-04-27 15:16:54,746 -  Habitos - Cook Sheet -ERROR - Verify that if the receipe1 name is correctly displayed in cook sheet
+2019-04-27 15:16:54,949 -  Habitos - Cook Sheet -ERROR - Verify that if the receipe2 name is correctly displayed in cook sheet
+2019-04-27 15:16:55,150 -  Habitos - Cook Sheet -ERROR - Verify that if the receipe3 name is correctly displayed in cook sheet
+2019-04-27 15:17:15,339 -  Habitos - Cook Sheet -ERROR - verify that if click master menu it should open
+2019-04-27 15:17:17,367 -  Habitos - Cook Sheet -ERROR - Verify that if click cook sheet it should redirect to related  screen
+2019-04-27 15:17:17,367 -  Habitos - Cook Sheet -ERROR - Verify that if the cook sheet contain the values
+2019-04-27 15:17:17,367 -  Habitos - Cook Sheet -ERROR - Verify that if the receipe1 name is correctly displayed in cook sheet
+2019-04-27 15:17:17,570 -  Habitos - Cook Sheet -ERROR - Verify that if the receipe2 name is correctly displayed in cook sheet
+2019-04-27 15:17:17,773 -  Habitos - Cook Sheet -ERROR - Verify that if the receipe3 name is correctly displayed in cook sheet
+2019-04-27 15:17:51,897 -  Habitos - Cook Sheet -INFO - browser gets valid ip address
+2019-04-27 15:17:57,625 -  Habitos - Cook Sheet -ERROR - verify that if click master menu it should open
+2019-04-27 15:17:59,654 -  Habitos - Cook Sheet -ERROR - Verify that if click cook sheet it should redirect to related  screen
+2019-04-27 15:17:59,670 -  Habitos - Cook Sheet -ERROR - Verify that if the cook sheet contain the values
+2019-04-27 15:17:59,686 -  Habitos - Cook Sheet -ERROR - Verify that if the receipe1 name is correctly displayed in cook sheet
+2019-04-27 15:17:59,905 -  Habitos - Cook Sheet -ERROR - Verify that if the receipe2 name is correctly displayed in cook sheet
+2019-04-27 15:18:00,113 -  Habitos - Cook Sheet -ERROR - Verify that if the receipe3 name is correctly displayed in cook sheet
+2019-04-27 15:18:43,922 - Habitos - LOGIN -INFO - browser gets open
+2019-04-27 15:18:50,529 - Habitos - LOGIN -INFO - browser gets valid ip address
+2019-04-27 15:18:51,071 - Habitos - LOGIN -INFO - Verify that if the User Name field is present 
+2019-04-27 15:18:51,118 - Habitos - LOGIN -INFO - Verify that if the username fields get autofocus
+2019-04-27 15:18:51,825 - Habitos - LOGIN -INFO - Verify that if the Password  field is present 
+2019-04-27 15:18:51,875 - Habitos - LOGIN -INFO - Verify that if the password fields get focused
+2019-04-27 15:18:53,349 - Habitos - LOGIN -INFO - Verify that if the user can't able to login with Invalid credentials
+2019-04-27 15:18:53,647 - Habitos - LOGIN -INFO - Verify that if the User Name field is present 
+2019-04-27 15:18:53,697 - Habitos - LOGIN -INFO - Verify that if the username fields get autofocus
+2019-04-27 15:18:54,161 - Habitos - LOGIN -INFO - Verify that if the Password  field is present 
+2019-04-27 15:18:54,235 - Habitos - LOGIN -INFO - Verify that if the password fields get focused
+2019-04-27 15:18:55,021 - Habitos - LOGIN -INFO - Verify that if the user can't able to login with Invalid credentials
+2019-04-27 15:18:55,541 - Habitos - LOGIN -INFO - Verify that if the username fields get autofocus
+2019-04-27 15:18:56,073 - Habitos - LOGIN -INFO - Verify that if the user can enter the user name
+2019-04-27 15:18:56,380 - Habitos - LOGIN -INFO - Verify that if the password fields get focused
+2019-04-27 15:18:56,786 - Habitos - LOGIN -INFO - Verify that user can login with valid credentials
+2019-04-27 15:35:38,733 - Habitos - LOGIN -INFO - browser gets open
+2019-04-27 15:35:49,639 - Habitos - LOGIN -INFO - browser gets valid ip address
+2019-04-27 15:35:53,429 - Habitos - LOGIN -INFO - Verify that if the User Name field is present 
+2019-04-27 15:35:53,493 - Habitos - LOGIN -INFO - Verify that if the username fields get autofocus
+2019-04-27 15:35:54,444 - Habitos - LOGIN -INFO - Verify that if the Password  field is present 
+2019-04-27 15:35:54,550 - Habitos - LOGIN -INFO - Verify that if the password fields get focused
+2019-04-27 15:35:56,547 - Habitos - LOGIN -INFO - Verify that if the user can't able to login with Invalid credentials
+2019-04-27 15:35:56,718 - Habitos - LOGIN -INFO - Verify that if the User Name field is present 
+2019-04-27 15:35:56,737 - Habitos - LOGIN -INFO - Verify that if the username fields get autofocus
+2019-04-27 15:35:56,980 - Habitos - LOGIN -INFO - Verify that if the Password  field is present 
+2019-04-27 15:35:57,010 - Habitos - LOGIN -INFO - Verify that if the password fields get focused
+2019-04-27 15:35:57,430 - Habitos - LOGIN -INFO - Verify that if the user can't able to login with Invalid credentials
+2019-04-27 15:35:57,588 - Habitos - LOGIN -INFO - Verify that if the username fields get autofocus
+2019-04-27 15:35:57,785 - Habitos - LOGIN -INFO - Verify that if the user can enter the user name
+2019-04-27 15:35:57,964 - Habitos - LOGIN -INFO - Verify that if the password fields get focused
+2019-04-27 15:35:58,117 - Habitos - LOGIN -INFO - Verify that user can login with valid credentials
+2019-04-27 15:36:16,914 -  Habitos - CRM  -ERROR - Browser isn't open
+2019-04-27 15:36:31,183 - Habitos - CRM _ INFO -ERROR - Verify that if click CRM info it should redirect to crm info index screen 
+2019-04-27 15:36:39,317 - Habitos - CRM _ INFO - VIEW  -ERROR - Verify that if click view icon it should display the view screen automatically
+2019-04-27 15:36:39,317 - Habitos - CRM _ INFO - VIEW  -ERROR - Verify that the client values are correctly displayed or not
+2019-04-27 15:36:53,772 - Habitos - Menu Planner -INFO - Verify  that if click master menu it getting to collapse
